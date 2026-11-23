@@ -2,13 +2,18 @@
   <img src="assets/terminal.svg" width="100%" alt="Terminal: I build systems, then I try to break them. Shardis chaos test: failover 3.1s median, 0 client errors across 1.2M operations, 0 of 2.1M acknowledged writes lost on kill -9." />
 </p>
 
-<p align="center">
-  <a href="https://djism.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/dsharma2496/">LinkedIn</a> ·
-  <a href="mailto:dhananjay.ism24@gmail.com">Email</a>
-</p>
+<img align="right" src="assets/avatar.svg" width="230" alt="Animated avatar of Dhananjay coding at his desk" />
 
-I'm a software engineer with 5+ years of shipping production software. Lately I build systems from scratch, then spend just as long trying to break them. **If a number on this page looks good, there's a test behind it that tried to make it look bad.**
+### Hi, I'm Dhananjay 👋
+
+I'm a software engineer with 5+ years of shipping production software. Lately I build systems from scratch, then spend just as long trying to break them.
+
+**If a number on this page looks good, there's a test behind it that tried to make it look bad.**
+
+📍 New Jersey · open to NYC and SF<br>
+🌐 [Portfolio](https://djism.github.io/) · [LinkedIn](https://www.linkedin.com/in/dsharma2496/) · [Email](mailto:dhananjay.ism24@gmail.com)
+
+<br clear="right"/>
 
 <p align="center">
   <img src="assets/status.svg" width="100%" alt="Project status: Shardis healthy, Atlas localized, Behavision building" />
