@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="54" viewBox="0 0 960 54" role="img" aria-label="Project status: Shardis healthy, Atlas localized, Behavision building">
+<rect x="1" y="1" width="958" height="52" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">cluster status</text>
+<circle cx="190" cy="28" r="5" fill="#3fb950"/>
+<circle cx="190" cy="28" r="5" fill="none" stroke="#3fb950" stroke-width="2"><animate attributeName="r" values="5;10" dur="2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="206" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve"><tspan fill="#e6edf3" font-weight="bold">shardis</tspan><tspan fill="#8b949e">  healthy</tspan></text>
+<circle cx="445" cy="28" r="5" fill="#3fb950"/>
+<circle cx="445" cy="28" r="5" fill="none" stroke="#3fb950" stroke-width="2"><animate attributeName="r" values="5;10" dur="2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="461" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve"><tspan fill="#e6edf3" font-weight="bold">atlas</tspan><tspan fill="#8b949e">  localized</tspan></text>
+<circle cx="700" cy="28" r="5" fill="#d29922"/>
+<circle cx="700" cy="28" r="5" fill="none" stroke="#d29922" stroke-width="2"><animate attributeName="r" values="5;10" dur="2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<text x="716" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve"><tspan fill="#e6edf3" font-weight="bold">behavision</tspan><tspan fill="#8b949e">  building</tspan></text>
+</svg>
